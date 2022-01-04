@@ -1,4 +1,5 @@
 
+
 ## My First Testing With Jest + eslint-plugin-jest
 
 **@types/jest setup**
@@ -15,8 +16,10 @@
         [@types/jest](https://www.npmjs.com/package/@types/jest)
         
         [Ts type checking for vscode (3 ways to add)](https://code.visualstudio.com/docs/nodejs/working-with-javascript#_type-checking-javascript)
+	
+![ts type checking 3 methods](https://github.com/Tharindu-98/testing_1-jest-tscheck/blob/main/resources/ts%20type%20checking%20adding%20methods.PNG?raw=true)
 
-
+----------------------------------------------
 **Jest setup**
 
  5. `npm install jest --save-dev`
