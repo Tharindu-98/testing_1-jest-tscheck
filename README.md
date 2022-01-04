@@ -1,6 +1,6 @@
 
 
-## My First Testing With Jest + eslint-plugin-jest
+## My First Testing With Jest + @types/jest (Ts type support)
 
 **@types/jest setup**
 
