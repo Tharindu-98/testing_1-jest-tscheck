@@ -1,0 +1,23 @@
+{
+  "name": "testing_1-jest-tscheck",
+  "version": "1.0.0",
+  "description": "This project test using jest + typescript type support",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tharindu-98/testing_1-jest-tscheck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tharindu-98/testing_1-jest-tscheck/issues"
+  },
+  "homepage": "https://github.com/Tharindu-98/testing_1-jest-tscheck#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.5"
+  }
+}
